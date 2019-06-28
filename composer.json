@@ -31,12 +31,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Verseal\\Laravel\\Pivot\\": "src"
+            "Fico7489\\Laravel\\Pivot\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Verseal\\Laravel\\Pivot\\Tests\\": "tests/"
+            "Fico7489\\Laravel\\Pivot\\Tests\\": "tests/"
         }
     },
     "minimum-stability": "dev",
